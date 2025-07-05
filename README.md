@@ -1,7 +1,7 @@
 # ✨ Hi, I'm Layan Alawad 👋
 
 👩‍💻Computer Science Student  
-📱 Aspiring Mobile App Developer  
+📱Mobile App Developer  
 
 ---
 
