@@ -16,6 +16,6 @@
 ![Layan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LayanIAlawad&show_icons=true&theme=tokyonight)
 
 ---
-
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layanalawad)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/lus1re?s=21)
